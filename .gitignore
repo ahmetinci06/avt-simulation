@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+venv/
+.venv/
+env/
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# MATLAB
+*.asv
+*.mex*
+slprj/
+*.slxc
+
+# ANSYS büyük dosyalar (Drive'a yükle)
+*.wbpj
+*.wbpz
+*.mechdat
+*.cmdb
+*.rst
+*.rth
+*.cas
+*.dat.gz
+*.h5
+
+# OpenFOAM
+processor*/
+postProcessing/
+*.foam
+*.OpenFOAM
+VTK/
+
+# Büyük veri dosyaları
+*.hdf5
+*.h5
+*.nc  # NetCDF
+
+# Log dosyaları
+*.log
+logs/
+*.out
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Geçici
+*.tmp
+*.bak
+~*
