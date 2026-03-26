@@ -1,5 +1,17 @@
 # ⚙️ AVT Racing — Malzeme & Simülasyon Ekibi
 
+## 📊 İlerleme & Çalışma Akışı
+
+- [🔄 WORKFLOW.md](WORKFLOW.md) — Çalışma akışı ve PR kuralları
+- [📊 PROGRESS.md](PROGRESS.md) — Görev durumları ve ilerleme
+- [🐛 BUGS.md](BUGS.md) — Bug raporları ve debug takibi
+
+> Her değişiklik PR ile yapılır. Review: @ahmetinci06 & Yaver (AI CTO)
+
+---
+
+
+
 > **avt-simulation** — Simülasyon dosyaları, malzeme analizi, FEA sonuçları ve hesaplamalı dinamik akışkanlar simülasyonlarının deposu.
 
 [![Ana Hub](https://img.shields.io/badge/Ana%20Hub-avt--hub--dev-blue)](https://github.com/ahmetinci06/avt-hub-dev)
